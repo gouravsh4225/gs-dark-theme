@@ -2,7 +2,8 @@
   "name": "gs-dark-theme",
   "displayName": "gs-dark-theme",
   "description": "Visual code dark theme by Gourav Sharma",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "gs-dark-theme",
   "engines": {
     "vscode": "^1.97.0"
   },
