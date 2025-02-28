@@ -1,0 +1,21 @@
+{
+  "name": "gs-dark-theme",
+  "displayName": "gs-dark-theme",
+  "description": "Visual code dark theme by Gourav Sharma",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gs dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gs dark theme-color-theme.json"
+      }
+    ]
+  }
+}
